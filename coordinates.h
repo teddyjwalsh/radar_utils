@@ -4,8 +4,12 @@
 #include <random>
 #include <iomanip>
 #include <cmath>
+#include <iostream>
 
+#include "GeographicLib/Geoid.hpp"
+#include "glm/glm.hpp"
 
+#define PI 3.141592654
 
 void lla_to_ecef2(double lat, double lon, double alt,
                  double& x, double& y, double& z)
