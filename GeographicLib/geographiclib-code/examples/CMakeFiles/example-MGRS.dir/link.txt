@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-MGRS.dir/example-MGRS.cpp.o  -o example-MGRS ../src/libGeographic.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-OSGB.dir/example-OSGB.cpp.o  -o example-OSGB ../src/libGeographic.a 

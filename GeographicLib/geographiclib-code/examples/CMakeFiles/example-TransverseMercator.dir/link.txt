@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-TransverseMercator.dir/example-TransverseMercator.cpp.o  -o example-TransverseMercator ../src/libGeographic.a 

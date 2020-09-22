@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-GravityCircle.dir/example-GravityCircle.cpp.o  -o example-GravityCircle ../src/libGeographic.a 

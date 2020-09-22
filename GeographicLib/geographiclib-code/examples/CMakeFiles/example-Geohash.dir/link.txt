@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-Geohash.dir/example-Geohash.cpp.o  -o example-Geohash ../src/libGeographic.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/CartConvert.dir/CartConvert.cpp.o  -o CartConvert -Wl,-rpath,:::::::::::::: ../src/libGeographic.a 

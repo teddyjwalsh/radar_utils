@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-RhumbLine.dir/example-RhumbLine.cpp.o  -o example-RhumbLine ../src/libGeographic.a 

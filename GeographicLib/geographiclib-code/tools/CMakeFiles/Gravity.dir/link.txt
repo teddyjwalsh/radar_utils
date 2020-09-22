@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/Gravity.dir/Gravity.cpp.o  -o Gravity -Wl,-rpath,:::::::::::::: ../src/libGeographic.a 

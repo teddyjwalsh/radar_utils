@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-SphericalHarmonic2.dir/example-SphericalHarmonic2.cpp.o  -o example-SphericalHarmonic2 ../src/libGeographic.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-LambertConformalConic.dir/example-LambertConformalConic.cpp.o  -o example-LambertConformalConic ../src/libGeographic.a 

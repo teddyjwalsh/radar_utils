@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-CircularEngine.dir/example-CircularEngine.cpp.o  -o example-CircularEngine ../src/libGeographic.a 

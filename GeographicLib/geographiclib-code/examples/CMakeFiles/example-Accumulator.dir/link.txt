@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-Accumulator.dir/example-Accumulator.cpp.o  -o example-Accumulator ../src/libGeographic.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-GeographicErr.dir/example-GeographicErr.cpp.o  -o example-GeographicErr ../src/libGeographic.a 

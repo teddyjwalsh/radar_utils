@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-NormalGravity.dir/example-NormalGravity.cpp.o  -o example-NormalGravity ../src/libGeographic.a 

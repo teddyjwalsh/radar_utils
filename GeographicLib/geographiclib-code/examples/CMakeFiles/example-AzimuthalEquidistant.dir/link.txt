@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-AzimuthalEquidistant.dir/example-AzimuthalEquidistant.cpp.o  -o example-AzimuthalEquidistant ../src/libGeographic.a 

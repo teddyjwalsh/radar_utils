@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-MagneticModel.dir/example-MagneticModel.cpp.o  -o example-MagneticModel ../src/libGeographic.a 

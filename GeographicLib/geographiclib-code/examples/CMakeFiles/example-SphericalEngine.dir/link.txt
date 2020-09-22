@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-SphericalEngine.dir/example-SphericalEngine.cpp.o  -o example-SphericalEngine ../src/libGeographic.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-GARS.dir/example-GARS.cpp.o  -o example-GARS ../src/libGeographic.a 

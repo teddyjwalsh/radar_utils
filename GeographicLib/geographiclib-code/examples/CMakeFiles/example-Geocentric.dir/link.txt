@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-Geocentric.dir/example-Geocentric.cpp.o  -o example-Geocentric ../src/libGeographic.a 

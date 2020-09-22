@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/TransverseMercatorProj.dir/TransverseMercatorProj.cpp.o  -o TransverseMercatorProj -Wl,-rpath,:::::::::::::: ../src/libGeographic.a 

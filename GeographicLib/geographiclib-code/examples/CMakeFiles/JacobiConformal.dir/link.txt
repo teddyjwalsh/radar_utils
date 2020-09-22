@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/JacobiConformal.dir/JacobiConformal.cpp.o  -o JacobiConformal ../src/libGeographic.a 

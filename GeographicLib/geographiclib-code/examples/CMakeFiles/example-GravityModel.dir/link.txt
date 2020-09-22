@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-GravityModel.dir/example-GravityModel.cpp.o  -o example-GravityModel ../src/libGeographic.a 

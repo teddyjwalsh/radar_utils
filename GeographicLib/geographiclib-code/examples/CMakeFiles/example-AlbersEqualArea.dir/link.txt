@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wfloat-conversion -O3 -DNDEBUG  -rdynamic CMakeFiles/example-AlbersEqualArea.dir/example-AlbersEqualArea.cpp.o  -o example-AlbersEqualArea ../src/libGeographic.a 
